@@ -1,7 +1,7 @@
 [
     {
       "usuario": ["oi", "eae", "qual e", "opa", "olá", "ola", "firmeza", "tudo certo", "dia", "tarde", "noite", "beleza"],
-      "pris": "Opa, tudo bem ? Me chamo Pris, e sou uma mini AI criada para te ajudar em algumas disciplinas no Curso\n\n             Vou fazer o que estiver no meu alcance para te ajudar, caso tenha alguma duvida fora do que fui programada \n\n             Clique no botao 'calouro(a)' acima \uD83D\uDD1D, ali voce vai ser direcionado para o site oficial de calouros(a) da UNB\n\n             Aqui voce tambem vai encontra Botoes auxiliares para duvidas muito comuns como: \n\n             Horarios dos Onibus, Restaurante Universitario e sites Essenciais. Portanto, \n\n             Fique a vontade para perguntar.. caso queira terminar a sessao, so dar 'tchau' =]",
+      "pris": "Tudo bem ? pode me chamar de Pris, sou uma mini AI criada para te ajudar em algumas disciplinas no Curso\n\n             Vou fazer o que estiver no meu alcance para te ajudar, caso tenha alguma duvida fora do que fui programada \n\n             Clique no botao 'calouro(a)' acima \uD83D\uDD1D, ali voce vai ser direcionado para o site oficial de calouros(a) da UNB\n\n             Aqui voce tambem vai encontra Botoes auxiliares para duvidas muito comuns como: \n\n             Horarios dos Onibus, Restaurante Universitario e sites Essenciais. Portanto, \n\n             Fique a vontade para perguntar.. caso queira terminar a sessao, so digitar 'tchau' =]",
       "TAG": []
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "usuario": ["cpe"],
-      "pris": "foca bem nessa disciplina! programacao e muito importante, adicionei python tambem\n\n             Computacao para Engenharia | C++ - https://bit.ly/3PxIiCx ou Python - https://bit.ly/3V1Yo8l\n\n",
+      "pris": "estude bem essa disciplina! programacao e muito importante, adicionei python tambem, aproveite!\n\n             Computacao para Engenharia | C++ - https://bit.ly/3PxIiCx ou Python - https://bit.ly/3V1Yo8l\n\n",
       "TAG": ["cpe"]
     },
     {
@@ -198,5 +198,7 @@
       "usuario": ["onibus"],
       "pris": "Entao, sobre o Horario dos onibus.\n\n             voce consegue todas as informacoes sobre os Horarios e valor da tarifa no botao acima chamado 'Onibus'",
       "TAG": ["onibus"]
+    }
+]
     }
 ]
