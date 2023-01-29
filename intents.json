@@ -36,28 +36,23 @@
     },
     {
       "usuario": ["fisica", "fisica 2", "fisica 3", "fisica experimental"],
-      "pris": "fisica vai ser muito complicado \uD83D\uDE25, aproveite!\n\n            Fisica 1 - https://bit.ly/3hA8kse\n\n            Fisica 2 - https://bit.ly/3W9drhS\n\n            Fisica 3 - https://bit.ly/3HL15se",
+      "pris": "fisica vai ser muito complicado \uD83D\uDE25, aproveite e boa sorte!\n\n            Fisica 1 - https://bit.ly/3wC0Kkz\n\n            Fisica 2 - https://bit.ly/3W9drhS\n\n            Fisica 3 - https://bit.ly/3HL15se",
       "TAG": ["fisica"]
     },
     {
       "usuario": ["algebra", "linear"],
-      "pris": "Ial, eu acho que tenho uma playlist\n\n            Algebra Linear - https://bit.ly/3WIUF11\n\n",
+      "pris": "IAL, eu acho que tenho uma playlist\n\n            Algebra Linear - https://bit.ly/3WIUF11\n\n",
       "TAG": ["algebra", "linear"]
     },
     {
       "usuario": ["sistemas" ,"digitais"],
-      "pris": "Prepara pra passar raiva.. aqui o curso piora muito. \uD83D\uDE21 Boa Sorte! e toma essa playlist\n\n             Sistemas Digitais - https://bit.ly/3PD2zGw\n\n",
+      "pris": "Prepara pra passar raiva.. aqui voce vai sofrer! \uD83D\uDE21 Boa Sorte! e toma essa playlist\n\n             Sistemas Digitais - https://bit.ly/3PD2zGw\n\n",
       "TAG": ["sistemas" ,"digitais"]
     },
     {
       "usuario": ["cpe"],
-      "pris": "foca bem nessa disciplina! programacao e muito importante\n\n             Computacao para Engenharia | C++ - https://bit.ly/3PxIiCx\n\n",
+      "pris": "foca bem nessa disciplina! programacao e muito importante, adicionei python tambem\n\n             Computacao para Engenharia | C++ - https://bit.ly/3PxIiCx ou Python - https://bit.ly/3V1Yo8l\n\n",
       "TAG": ["cpe"]
-    },
-    {
-      "usuario": ["pci"],
-      "pris": "foca bem nessa disciplina e muito importante\n\n             Python - https://bit.ly/3V1Yo8l\n\n",
-      "TAG": ["pci"]
     },
     {
       "usuario": ["eletronica"],
@@ -86,12 +81,12 @@
     },
     {
       "usuario": ["algoritmo", "estrutura", "dados"],
-      "pris": "estude bastante essa, principalmente programacao orientada a objeto!\n\n          Algoritmo e Estrutura de Dados - https://bit.ly/3uVy717\n\n",
+      "pris": "estude bastante essa, principalmente programacao orientada a objetos!\n\n            Algoritmo e Estrutura de Dados - https://bit.ly/3uVy717\n\n",
       "TAG": ["algoritmo", "estrutura", "dados"]
     },
     {
       "usuario": ["aed"],
-      "pris": "estude bastante essa, principalmente programacao orientada a objeto!\n\n         Algoritmo e Estrutura de Dados - https://bit.ly/3uVy717\n\n",
+      "pris": "estude bastante essa, principalmente programacao orientada a objeto!\n\n            Algoritmo e Estrutura de Dados - https://bit.ly/3uVy717\n\n",
       "TAG": ["aed"]
     },
     {
@@ -171,12 +166,12 @@
     },
     {
       "usuario": ["sigaa"],
-      "pris": "Entao, sobre o Sigaa.\n\n              Sigaa vai ser sua casa, aqui voce vai administrar sua graduacao com relacao a disciplinas.\n\n              Desde de retirada e trancamento ate estagio, e principalmente, suas notas (mencoes).\n\n              SS - 9,0 a 10,0 | MS - 7,0 a 8,9 | MM - 5,0 a 6,9 | MI - 3,0 a 4,9 | II - 0,1 a 2,9 | SR - acima de 25% de faltas",
+      "pris": "Entao, sobre o Sigaa.\n\n            Sigaa vai ser sua casa, aqui voce vai administrar sua graduacao com relacao a disciplinas.\n\n            Desde de retirada e trancamento ate estagio, e principalmente, suas notas (mencoes).\n\n            SS - 9,0 a 10,0 | MS - 7,0 a 8,9 | MM - 5,0 a 6,9 | MI - 3,0 a 4,9 | II - 0,1 a 2,9 | SR - acima de 25% de faltas",
       "TAG": ["sigaa"]
     },
     {
       "usuario": ["aprender"],
-      "pris": "Entao, sobre o Aprender.\n\n               Aprender3 e onde provavelmente vai estar o conteudo de suas disciplinas, ate mesmo para contato\n\n               com o Professor e etc. Caso queira acessar este site, sugiro clicar no botao 'Essenciais' acima",
+      "pris": "Entao, sobre o Aprender.\n\n             Aprender3 e onde provavelmente vai estar o conteudo de suas disciplinas, ate mesmo para contato\n\n             com o Professor e etc. Caso queira acessar este site, sugiro clicar no botao 'Essenciais' acima",
       "TAG": ["aprender"]
     },
     {
@@ -186,22 +181,22 @@
     },
     {
       "usuario": ["moodlemat"],
-      "pris": "Entao, sobre o Moodlemat.\n\n               Moodlemat e onde vai estar o conteudo de disciplinas ligadas ao Departamento de matematica\n\n               Caso queira acessar este site, sugiro clicar no botao 'Essenciais' acima",
+      "pris": "Entao, sobre o Moodlemat.\n\n             Moodlemat e onde vai estar o conteudo de disciplinas ligadas ao Departamento de matematica\n\n             Caso queira acessar este site, sugiro clicar no botao 'Essenciais' acima",
       "TAG": ["moodlemat"]
     },
     {
       "usuario": ["restaurante"],
-      "pris": "Entao, sobre o Restaurante Universitario.\n\n               voce consegue todas as informacoes sobre Horarios e precos no botao acima chamado 'RU'",
+      "pris": "Entao, sobre o Restaurante Universitario.\n\n            voce consegue todas as informacoes sobre Horarios e precos no botao acima chamado 'RU'",
       "TAG": ["restaurante"]
     },
     {
       "usuario": ["ru"],
-      "pris": "Entao, sobre o Restaurante Universitario.\n\n                voce consegue todas as informacoes sobre Horarios e precos no botao acima chamado 'RU'",
+      "pris": "Entao, sobre o Restaurante Universitario.\n\n             voce consegue todas as informacoes sobre Horarios e precos no botao acima chamado 'RU'",
       "TAG": ["ru"]
     },
     {
       "usuario": ["onibus"],
-      "pris": "Entao, sobre o Horario dos onibus.\n\n                voce consegue todas as informacoes sobre os Horarios e valor da tarifa no botao acima chamado 'Onibus'",
+      "pris": "Entao, sobre o Horario dos onibus.\n\n             voce consegue todas as informacoes sobre os Horarios e valor da tarifa no botao acima chamado 'Onibus'",
       "TAG": ["onibus"]
     }
 ]
