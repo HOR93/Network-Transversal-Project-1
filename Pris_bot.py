@@ -6,7 +6,7 @@ from PIL import ImageTk, Image # imagem no tkinter
 from tkinter import messagebox # mensagem no tkinter
 from load_json import  *
 
-#Projeto Projeto Transversal em Redes 1
+#Projeto Projeto Transversal em Redes 1 - henrique oliveira da rocha - 202066910
 
 
 
@@ -36,7 +36,7 @@ class Pris:
         # barra de tarefas superior da homepage
         barra_superior_hp = Label(
         self.window,  bg="#000000", fg="#F5F5F5",
-        text=f"🤖\n", font=("Comic Sans MS", "20", "bold"), pady=1)
+        text=f" 🤖\n", font=("Comic Sans MS", "20", "bold"), pady=1)
         barra_superior_hp.place(relwidth=1, rely=0.00004)
 
         foto_label_hp = Label(image=self.foto2, bg="#000000")
@@ -101,18 +101,18 @@ class Pris:
         barra_superior = Label(
         self.window,  bg="#2E2E2E", fg="#FFFFFF",
         text=f"🤖 Assistente Virtual Universitario  \nHoje:{self.hoje: %d / %m / %y} | Falta {self.falta.days} Dias para as Ferias", font=("Comic Sans MS", "12", "bold"), pady=1)
-        barra_superior.place(relwidth=1, rely=0.00001)
+        barra_superior.place(relwidth=1, rely=0.0001)
 
         foto_label = Label(image=self.foto, bg="#2E2E2E")
         foto_label.place(relwidth=0.09,  rely=0.000010)
 
         # barra de tarefas inferior
-        barra_inferior = Label(self.window, bg="#FCFCFC", height=120, pady=10)
-        barra_inferior.place(relwidth=1, rely=0.800)
+        barra_inferior = Label(self.window, bg="#3d6466", height=120, pady=10)
+        barra_inferior.place(relwidth=1, rely=0.810)
 
         # onde o texto aparece
         self.tela_texto = Text(
-        self.window, width=20, height=10, bg="#3d6466", fg="#000000", # 20   2
+        self.window, width=20, height=10, bg="#CDCDC9", fg="#000000", # 20   2
         font=("Helvetica", "14"),  padx=5, pady=5) #  5  5
         self.tela_texto.place(relheight=0.745, relwidth=2, rely=0.08)
         self.tela_texto.configure(cursor="arrow", state=DISABLED)
@@ -125,12 +125,12 @@ class Pris:
 
         # botão de enviar
         perguntar = Button(
-        barra_inferior, text="Perguntar", font=("Comic Sans MS", "12", "bold"), width=18, bg="#00a65a", command=lambda: self.caixa_enviar_pergunta(None) )
-        perguntar.place(relx=0.70, rely=0.008, relheight=0.05, relwidth=0.20)
+        barra_inferior, text="Perguntar", font=("Comic Sans MS", "14", "bold"), width=18, bg="#2E2E2E", fg="#F5F5F5", command=lambda: self.caixa_enviar_pergunta(None) )
+        perguntar.place(relx=0.72, rely=0.008, relheight=0.05, relwidth=0.16)
 
         # botão youtube
-        pesquisar_b = Button(barra_inferior, text="Youtube\n 🔍", font=("Comic Sans MS", "12", "bold"), width=18, bg="#00a65a", command= self.youtube)
-        pesquisar_b.place(relx=0.90, rely=0.008, relheight=0.05, relwidth=0.10)
+        pesquisar_b = Button(barra_inferior, text="Youtube\n 🔍", font=("Comic Sans MS", "13", "bold"), width=18, bg="#2E2E2E", fg="#F5F5F5", command= self.youtube)
+        pesquisar_b.place(relx=0.89, rely=0.008, relheight=0.05, relwidth=0.10)
 
         # barra de scroll
         scrollbar = Scrollbar(self.tela_texto)
@@ -139,24 +139,24 @@ class Pris:
 
         # botão calouro
         hyperlink = Button(text="🎓\nCalouro(a)", font=("Comic Sans MS", "11", "bold"), bg="#303030", fg="#F5F5F5", command=self.calouro)
-        hyperlink.place(relwidth=0.081, relheight=0.08,  rely=0.0010, relx=0.11)
+        hyperlink.place(relwidth=0.081, relheight=0.07,  rely=0.009, relx=0.11)
 
         # botão drive
         hyperlink = Button(text="📜\nG.Drive", font=("Comic Sans MS", "11", "bold"), bg="#303030", fg="#F5F5F5",
                            command=self.Drive)
-        hyperlink.place(relwidth=0.081, relheight=0.08, rely=0.0010, relx=0.21)
+        hyperlink.place(relwidth=0.081, relheight=0.07, rely=0.009, relx=0.21)
 
         # botão RU
         hyperlink = Button(text="🍲\nRU", font=("Comic Sans MS", "11", "bold"), bg="#303030", fg="#F5F5F5", command=self.RU)
-        hyperlink.place(relwidth=0.053, relheight=0.08, rely=0.0010, relx=0.85)
+        hyperlink.place(relwidth=0.053, relheight=0.07, rely=0.009, relx=0.85)
 
         # botão essenciais
         hyperlink = Button(text="📦\nEssenciais", font=("Comic Sans MS", "11", "bold"), bg="#303030", fg="#F5F5F5", command=self.Essenciais)
-        hyperlink.place(relwidth=0.090, relheight=0.08, rely=0.0010, relx=0.75)
+        hyperlink.place(relwidth=0.090, relheight=0.07, rely=0.009, relx=0.75)
 
         # botão horarios_onibus
         hyperlink1 = Button(text="🚌\nOnibus", font=("Comic Sans MS", "11", "bold"), bg="#303030", fg="#F5F5F5", command=self.horarios_onibus)
-        hyperlink1.place(relwidth=0.087, relheight=0.08, rely=0.0010, relx=0.91)
+        hyperlink1.place(relwidth=0.087, relheight=0.07, rely=0.009, relx=0.91)
         hyperlink1.bind("<FocusOut>", lambda e: hyperlink1.configure(bg="black", fg="white"))
 
     def youtube(self):
