@@ -10,8 +10,23 @@
       "TAG": []
     },
     {
-      "usuario": ["ajuda"],
-      "pris": "pergunte, quem sabe posso te ajudar\n\n",
+      "usuario": ["criou","fez"],
+      "pris": "fui criada pelo henrique para o projeto transversal em redes 1\n\n",
+      "TAG": []
+    },
+    {
+      "usuario": ["cansado","cansativo","cansada"],
+      "pris": "e assim mesmo, todo semestre pesa muito, mas vai dar tudo certo!\n\n",
+      "TAG": []
+    },
+    {
+      "usuario": ["dica","conselho"],
+      "pris": "aproveite todas as monitorias, se tirar nota muito baixa na primeira prova, retira a materia e curta\n\n            tudo o que a UNB tem a oferecer, muita boa sorte calouro(a)!",
+      "TAG": []
+    },
+    {
+      "usuario": ["hh","HH"],
+      "pris": "Essas festas acontecem sempre, fique ligado que sempre tem um HH acontecendo, aproveite e tenha juizo =]\n\n",
       "TAG": []
     },
     {
@@ -198,7 +213,5 @@
       "usuario": ["onibus"],
       "pris": "Entao, sobre o Horario dos onibus.\n\n             voce consegue todas as informacoes sobre os Horarios e valor da tarifa no botao acima chamado 'Onibus'",
       "TAG": ["onibus"]
-    }
-]
     }
 ]
